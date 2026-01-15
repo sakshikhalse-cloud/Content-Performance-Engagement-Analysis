@@ -14,29 +14,6 @@ Tools & Technologies
 - Excel / CSV – Source dataset
 - GitHub– Project version control and documentation
 
- Project Structure
- Content-Performance-Engagement-Analysis/
-│
-├── 01-Dataset/
-│   └── content_data.csv
-│
-├── 02_SQL/
-│   └── content_engagement_analysis.sql
-│
-├── 03_PowerBI/
-│   └── Content_Performance_Engagement_Dashboard.pbix
-│
-├── 05_Screenshots/
-│   ├── 01_dashboard_overview.png
-│   ├── 02_kpi_section.png
-│   ├── 03_engagement_by_platform.png
-│   ├── 04_engagement_by_content_type.png
-│   └── 05_engagement_trend.png
-│
-└── README.md
-
- ---
-
   Key KPIs Calculated
 - Total Views
 - Total Engagement
