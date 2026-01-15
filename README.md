@@ -37,21 +37,10 @@ All SQL queries are available in the `02_SQL` folder.
  Power BI Dashboard Overview
 
 1️⃣ Overall Dashboard View
-![Dashboard Overview](https://1drv.ms/i/c/47c40fa7e8a7a3ce/IQD6y1poc5_eSoWd9ReEEJ6kAdbxODPFs6oCfHb5AglyTzs?e=5R6gi0)
-
 2️⃣ KPI Summary
-![KPI Section]((https://1drv.ms/i/c/47c40fa7e8a7a3ce/IQC_BKlvUt8aTpn0rSFCWfSGAaDh9JP5bQM6KnrrONPoywA?e=uOLM7h))
-
 3️⃣ Engagement by Platform
-![Engagement by Platform]((https://1drv.ms/i/c/47c40fa7e8a7a3ce/IQBEc4wP4s41Q5gmPOHUwCRNAaLVv_S36-d3sjaEtY2LuWM?e=abcCuT))
-
 4️⃣ Engagement by Content Type
-![Engagement by Content Type]((https://1drv.ms/i/c/47c40fa7e8a7a3ce/IQDxhQ6TnsJgQbNWXAmrDTSpARXMrzRj9YuDVMZ0At-Ie2g?e=5FBErR))
-
 5️⃣ Engagement Trend Over Time
-![Engagement Trend]((https://1drv.ms/i/c/47c40fa7e8a7a3ce/IQC0GbnFVPkuSqdeCgytDZokAYcGzZ3nDnpoMaK_5HcVfwM?e=qi0siQ))
-
----
 
  Key Insights
 - Instagram generates the highest engagement compared to LinkedIn and Twitter
