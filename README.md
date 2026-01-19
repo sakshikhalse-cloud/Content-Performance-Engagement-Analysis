@@ -36,11 +36,11 @@ All SQL queries are available in the `02_SQL` folder.
 
  Power BI Dashboard Overview
 
-1️⃣ Overall Dashboard View
-2️⃣ KPI Summary
-3️⃣ Engagement by Platform
-4️⃣ Engagement by Content Type
-5️⃣ Engagement Trend Over Time
+Overall Dashboard View
+KPI Summary
+Engagement by Platform
+Engagement by Content Type
+Engagement Trend Over Time
 
  Key Insights
 - Instagram generates the highest engagement compared to LinkedIn and Twitter
@@ -62,6 +62,5 @@ This project demonstrates the ability to:
 - Present analysis clearly using GitHub documentation
 
 ---
-Author
 Sakshi Khalse
-Aspiring Data Analyst | SQL | Power BI | Data Visualization
+Data Analyst | SQL | Power BI | Data Visualization
