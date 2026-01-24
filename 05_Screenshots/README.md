@@ -1,2 +1,3 @@
-- Dashboard Screenshots
-  Visual previews of the PowerBI Dashboard
+# Dashboard Screenshots
+
+Contains screenshots of the final content performance dashboard for quick preview and documentation.
